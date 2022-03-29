@@ -6,5 +6,7 @@ Lo siguientes es entrar en nuestra pagina de wordpress y empezar a personalizar 
 # Capturas
 
 ![Image text](https://github.com/ppereiramoure/Agarimo_Web/blob/main/Captura%20de%20pantalla%20de%202022-03-29%2010-53-23.png)
+
 ![Image text](https://github.com/ppereiramoure/Agarimo_Web/blob/main/Captura%20de%20pantalla%20de%202022-03-29%2011-04-16.png)
+
 ![Image text](https://github.com/ppereiramoure/Agarimo_Web/blob/main/Captura%20de%20pantalla%20de%202022-03-29%2011-09-56.png)
